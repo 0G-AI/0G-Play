@@ -1,8 +1,8 @@
-# ACN-Verse
+# ACN-Play
 
 ## Decentralized AI-Powered Finance, Gaming, and Social Interaction Ecosystem
 
-> ACN-Verse is a next-generation ecosystem built on the **AITech Cloud Network**, using decentralized AI. It supports multiple blockchains like **Ethereum (EVM)**, **Solana**, and more. Play-to-Earn (P2E) mechanics let you earn real crypto rewards.
+> ACN-Play is a next-generation ecosystem built on the **AITech Cloud Network**, using decentralized AI. It supports multiple blockchains like **Ethereum (EVM)**, **Solana**, and more. Play-to-Earn (P2E) mechanics let you earn real crypto rewards.
 
 ---
 
